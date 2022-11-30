@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Kumar</h1>
-<h3 align="center">A passionate frontend developer and Android App Developer from India</h3>
+<h3 align="center">A passionate FullStack and Android App Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47te9nldnqtkes3to5056qvduvpmkhqxr9qu6fz6si&rid=giphy.gif&ct=g">
 
@@ -28,9 +28,10 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rishabhkr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rishabhkr" /></a></p><br><br>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhkr1&show_icons=true&locale=en&layout=compact" alt="rishabhkr1" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhkr1&show_icons=true&locale=en" alt="rishabhkr1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhkr1&" alt="rishabhkr1" /></p>
