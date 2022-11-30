@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Kumar</h1>
-<h3 align="center">A passionate FullStack and Android App Developer from India</h3>
+<h3 align="center">A FullStack and Android App Developer </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47te9nldnqtkes3to5056qvduvpmkhqxr9qu6fz6si&rid=giphy.gif&ct=g">
 
@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/rishabhkr1_" target="blank"><img src="https://img.shields.io/twitter/follow/rishabhkr1_?logo=twitter&style=for-the-badge" alt="rishabhkr1_" /></a> </p>
 
-- 🌱 I’m currently learning **React , CyberSecurity**
+- 🌱 I’m currently learning **React , CyberSecurity , DSA **
 
 - 📫 How to reach me **rishabhraja85275@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I know Multipe Languages like English,Hindi,French , I am always ready for tea.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,6 +32,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhkr1&show_icons=true&locale=en&layout=compact" alt="rishabhkr1" /></p>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhkr1&show_icons=true&locale=en" alt="rishabhkr1" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhkr1&" alt="rishabhkr1" /></p>
