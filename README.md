@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Kumar </h1>
-<h3 align="center">A FullStack and Android App Developer </h3>
+<h3 align="center">A Full-Stack and Android App Developer </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47te9nldnqtkes3to5056qvduvpmkhqxr9qu6fz6si&rid=giphy.gif&ct=g">
 
