@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/rishabhkr1_" target="blank"><img src="https://img.shields.io/twitter/follow/rishabhkr1_?logo=twitter&style=for-the-badge" alt="rishabhkr1_" /></a> </p>
 
-- 🌱 I’m currently learning **React , CyberSecurity , DSA **
+- 🌱 I’m currently learning **React , CyberSecurity , DSA ,DevOps **
 
 - 📫 How to reach me **rishabhraja85275@gmail.com**
 
-- ⚡ Fun fact **I know Multipe Languages like English,Hindi,French , I am always ready for tea.**
+- ⚡ Fun fact **I know Multipe Languages like English,Hindi,French ,  I am always ready for tea.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
