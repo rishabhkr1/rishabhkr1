@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **rishabhraja85275@gmail.com**
 
-- ⚡ Fun fact **I know Multipe Languages like English, Hindi, French ,    I am always ready for tea.**
+- ⚡ Fun fact **I know Multipe Languages like English, Hindi, French . I am always ready for tea.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
