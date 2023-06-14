@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/rishabhkr1_" target="blank"><img src="https://img.shields.io/twitter/follow/rishabhkr1_?logo=twitter&style=for-the-badge" alt="rishabhkr1_" /></a> </p>
 
-- 🌱 I’m currently learning **React , CyberSecurity , DSA ,DevOps **
+- 🌱 I’m currently learning **React , DSA ,DevOps **
 
 - 📫 How to reach me **rishabhraja85275@gmail.com**
 
