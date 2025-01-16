@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Kumar </h1>
-<h3 align="center">A Full-Stack and DevOps Engineer </h3>
+<h3 align="center">A Java Back-End Developer </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47te9nldnqtkes3to5056qvduvpmkhqxr9qu6fz6si&rid=giphy.gif&ct=g">
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/rishabhkr1_" target="blank"><img src="https://img.shields.io/twitter/follow/rishabhkr1_?logo=twitter&style=for-the-badge" alt="rishabhkr1_" /></a> </p>
 
-- 🌱 I’m currently learning **React , DSA ,DevOps **
+- 🌱 I’m currently learning **Spring , Kafka ,DevOps **
 
 - 📫 How to reach me **rishabhraja85275@gmail.com**
 
